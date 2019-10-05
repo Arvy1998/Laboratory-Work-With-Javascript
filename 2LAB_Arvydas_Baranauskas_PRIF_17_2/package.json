@@ -1,0 +1,22 @@
+{
+  "name": "2lab_arvydas_baranauskas_prif_17_2",
+  "version": "1.0.0",
+  "description": "2 Laboratorinis darbas: CRUD implementacija ir duomenu manipuliacijos tarp klasiu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "keywords": [
+    "CRUD"
+  ],
+  "author": "Arvydas Baranauskas PRIF-17/2",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "human-readable-ids": "^1.0.4",
+    "lodash": "^4.17.15",
+    "sha256": "^0.2.0"
+  }
+}
